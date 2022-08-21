@@ -1,0 +1,13 @@
+header{
+    text-align: center;
+    font-size: 40px;
+    padding: 50px;
+    background: blue;
+    
+}
+
+section{
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
